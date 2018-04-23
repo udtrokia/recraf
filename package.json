@@ -1,0 +1,9 @@
+{
+  "name": "recraf",
+  "version": "0.1.1",
+  "description": "Recursive queries your files in the path your pass.",
+  "main": "./bin/recraf.js",
+  "repository": "git@github.com:udtrokia/refile.git",
+  "author": "mercury <udtrokia@163.com>",
+  "license": "MIT"
+}
